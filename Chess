@@ -1,0 +1,23 @@
+class ChessPiece: 
+  def Alive(bool)
+    pass
+
+class Pawn(ChessPiece):
+  def PawnMove(move):
+    pass
+
+class Knight(ChessPiece):
+  pass
+
+class Bishop(ChessPiece): 
+  pass
+
+class Rook(ChessPiece): 
+  pass
+
+class Queen(ChessPiece):
+  pass
+
+class King(ChessPiece):
+  pass
+
